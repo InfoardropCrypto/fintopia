@@ -1,2 +1,1 @@
-# fintopia bot
-
+# fintopio
